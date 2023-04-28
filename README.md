@@ -15,8 +15,6 @@ pytorch version of SAC + SIEAC(by Jongchan Baek)
 ### Usage
 
 ```
-usage(in Linux): python main_quadruple2.py --cuda
+usage(in Linux): python run_train.py --algorithm sac
 ```
-
-(Note: put the argument --cuda)
 
