@@ -8,7 +8,7 @@ pytorch version of SAC + SIEAC(by Jongchan Baek)
 ### Requirements
 ------------
 *   [mujoco-py]
-*   [mujoco-viwer]
+*   [mujoco-viewer]
 *   [PyTorch]
 
 ------------
