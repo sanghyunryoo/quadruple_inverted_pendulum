@@ -11,7 +11,6 @@ pytorch version of SAC + SIEAC(by Jongchan Baek)
 *   [mujoco-viwer]
 *   [PyTorch]
 
-### Default Arguments and Usage
 ------------
 ### Usage
 
