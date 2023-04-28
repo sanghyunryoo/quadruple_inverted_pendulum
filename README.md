@@ -1,20 +1,25 @@
-# quadruple_inverted_pendulum
+# CoCEL Quadruple Inverted Pendulum
 
-### Description
+Description
 ------------
 
-pytorch version of SAC + SIEAC(by Jongchan Baek)
+pytorch version of SAC + SIENet
 
-### Requirements
+Requirements
 ------------
-*   [mujoco-py]
-*   [mujoco-viwer]
-*   [PyTorch]
+*   mujoco
+*   mujoco-python-viwer
+*   pytorch (== 2.0.0)
+*   cudatoolkit (== 11.7)
+*   tensorboard
+*   pandas
 
 ------------
-### Usage
 
+Usage
+-------------
 ```
-usage(in Linux): python run_train.py --algorithm sac
+$ python run_train.py --algorithm sac
+$ python run_train.py --algorithm siesac
 ```
 
